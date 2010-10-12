@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#necessary imports
+#necessary importz
 import socket
 import string
 import time
@@ -18,8 +18,8 @@ creator="PythonNub"
 HOST="irc.freenode.net"
 PORT=6667
 NICK="SirChatsALot"
-IDENT="Gateway"
-REALNAME="Linux4Ever!"
+IDENT="LinuxRulez"
+REALNAME="LinuxRulez!"
 
 AllowedNicks=["JavaNub", "PythonNub"]
 StartChannels=["#python", "#testingclient", "##brainstorm", "#puppylinux-chat"]
