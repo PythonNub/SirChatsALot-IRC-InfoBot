@@ -12,7 +12,7 @@ USERNAME=False
 PASSWORD=False
 
 googling=False
-creator="JavaNub"
+creator="PythonNub"
 
 #these are the connection details, pretty much self-explanitory
 HOST="irc.freenode.net"
