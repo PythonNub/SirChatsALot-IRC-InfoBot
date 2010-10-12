@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-#necessary imports.
+#necessary imports
 import socket
 import string
 import time
